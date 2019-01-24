@@ -1,0 +1,10 @@
+{
+ "name" : "jordan_app",
+ "apiProducts": [ "from_the_util" ],
+ "attributes" : [ 
+  {
+   "name" : "DisplayName",
+   "value" : "Jordan's App"
+  }
+ ]
+}

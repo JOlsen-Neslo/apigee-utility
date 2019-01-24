@@ -1,0 +1,44 @@
+/bin/
+/target/**
+/target/classes/
+/target/dependency/
+/target/dependency-maven-plugin-markers/
+/target/generated-classes/
+/target/generated-sources/
+/target/generated-test-sources/
+/target/maven-archiver/
+/target/maven-status/
+/target/surefire-reports/
+/target/test-classes/
+/target/subscriptionapi-0.0.1-SNAPSHOT.jar
+/target/subscriptionapi-0.0.1-SNAPSHOT.jar.original
+/target/site/
+/target/jacoco.exec
+
+
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+../.idea/**
+../.idea/libararies/**
+.idea/**
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/

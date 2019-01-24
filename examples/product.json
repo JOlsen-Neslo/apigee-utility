@@ -1,0 +1,15 @@
+{
+  "name" : "from_the_util",
+  "displayName": "Util Test Product",
+  "approvalType": "auto",
+  "attributes": [
+    {
+      "name": "access",
+      "value": "public"
+    }
+  ],
+  "description": "This is a test API Product",
+  "apiResources": [ "/test", "/dev/test" ],
+  "environments": [ "dev", "prod" ],
+  "proxies": ["test_from_util"]
+}
